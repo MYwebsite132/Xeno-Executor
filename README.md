@@ -2,7 +2,7 @@
 
 Welcome to the Xeno Executor repository! This tool is a powerful and user-friendly script executor designed to enhance your Roblox gaming experience by allowing the execution of custom scripts.
 
-![maxresdefault (2)](https://github.com/user-attachments/assets/a2d403b8-edd8-4a53-b25c-ffe3f313abfe)
+[Download](https://github.com/user-attachments/assets/a2d403b8-edd8-4a53-b25c-ffe3f313abfe)
 
 ## Key Features
 
